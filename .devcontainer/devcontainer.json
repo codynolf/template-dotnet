@@ -1,5 +1,5 @@
 {
-	"name": "conti development",
+	"name": ".net 8 container - {PROJECT_NAME}",
 	"image": "mcr.microsoft.com/devcontainers/dotnet:8.0",
 	"customizations":
     {
